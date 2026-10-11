@@ -1,0 +1,76 @@
+#naglowek {
+    background-color: darkblue;
+    color: white;
+    padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    letter-spacing: 2px;
+}
+
+#naglowek h1{
+    font-style: italic;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightslategray;
+    text-decoration: underline;
+}
+
+#naglowek p{
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 2.5px;
+    font-size: larger;
+    text-decoration: underline;
+    color: lightgray;
+}
+
+#baner{
+    background-image: url('https://picsum.photos/1200/300?random=1');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 4px 4px 4px black;
+}
+
+#baner h2{
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 1.5;
+    word-spacing: 5px;
+}
+
+#baner p{
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 2;
+    word-spacing: 8px;
+}
+
+#tresc{
+    width: 100%;
+    background-color: bisque;
+    min-height: 300px;
+}
+
+.wpis{
+    width: 80%;
+    background-color: silver;
+    font-family: fantasy, sans-serif;
+}
+
+.wpis .autor{
+    text-decoration: underline;
+}
+
+.wpis .data{
+    text-decoration: underline;
+}
+
+.wpis .tekst{
+    text-decoration: underline;
+}
+
+.wpis .reakcje{
+    text-decoration: underline;
+}
